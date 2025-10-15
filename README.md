@@ -16,4 +16,8 @@ Componente reutilizable de perfil de usuario creado con React que incluye funcio
 1. Clona o descarga el proyecto
 2. Instala las dependencias:
 ```bash
+
 npm install
+npm run dev
+
+##El enlace si no nos manda directo al navegador lo podemos hacer de manera manual 
